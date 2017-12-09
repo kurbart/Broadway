@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+}
+#home p {
+  list-style: none;
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+a {
+  color: white;
+  font-size: 18px;
+}
+h1{
+  color: white;
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+}
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+#home {
+  background-image: url('../../resources/building.png');
+  background-size: cover;
+}
+.banner {
+  color: white;
+  background-image: url('../../resources/building.png');
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+#icons p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  font-size: 11px;
+  font-family: Helvetica;
+}
